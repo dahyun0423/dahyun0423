@@ -1,4 +1,25 @@
-## Hi there 👋
+
+## 💻 I've Used
+<!-- Java -->
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"> 
+
+<!-- Spring Boot -->
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> 
+
+<!-- Python -->
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+
+<!-- C -->
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"> 
+
+<!-- GitHub -->
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> 
+
+<!-- Figma -->
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> 
+
+<!-- Notion -->
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"> 
 
 <!--
 **dahyun0423/dahyun0423** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
