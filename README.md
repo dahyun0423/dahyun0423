@@ -29,6 +29,21 @@
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </p>
 
+## 📫 Contact
+
+<p>
+  <a href="mailto:ockda0423@skuniv.ac.kr"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:ockda0423@naver.com"><img src="https://img.shields.io/badge/Naver-000000?style=for-the-badge&logo=naver&logoColor=white"/></a>
+  <a href="https://impossible-glass-85d.notion.site/dahyunportfolio?source=copy_link"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
+</p>
+
+---
+
+## 🐍 GitHub Snake
+
+<p align="center">
+  <img src="https://github.com/codedbyminjae/codedbyminjae/blob/output/github-snake-dark.svg?palette=github-dark" alt="GitHub Snake"/>
+</p>
 <!--
 **dahyun0423/dahyun0423** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
