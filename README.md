@@ -40,7 +40,7 @@
 ---
 
 ## 🐍 GitHub Snake
-![https://github.com/dahyun0423](http://mazandi.herokuapp.com/api?handle={handle}&theme=warm)
+![dahyun](http://mazandi.herokuapp.com/api?handle={https://github.com/dahyun0423}&theme=warm)
 
 <!--
 **dahyun0423/dahyun0423** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
