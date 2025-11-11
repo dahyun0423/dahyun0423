@@ -1,4 +1,4 @@
-## It's me
+## 🙉It's me
 
 ### 💬Language
 <p align="left">
@@ -37,6 +37,11 @@
   <a href="https://impossible-glass-85d.notion.site/dahyunportfolio?source=copy_link"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
 </p>
 
+ ## 🔍 Github Stats
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dahyun0423)](https://github.com/anuraghazra/github-readme-stats)
+  <br/>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dahyun0423)](https://github.com/anuraghazra/github-readme-stats)
+  
 ---
 
 ## 🐍 GitHub Snake
