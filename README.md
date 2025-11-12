@@ -39,8 +39,8 @@
 
  ## 🔍 Github Stats
  
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dahyun0423)](https://github.com/anuraghazra/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dahyun0423 &layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dahyun0423)](https://github.com/dahyun0423/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dahyun0423&layout=compact)](https://github.com/dahyun0423/github-readme-stats)
   
 ---
 
