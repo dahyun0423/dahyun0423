@@ -1,7 +1,14 @@
-<div align="center">
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0364eaa8-bc0e-4175-a741-afd853aabe70" width="100%" />
+</p>
+
+
+<!-- div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=007BFF&text=Dahyun&fontColor=FFFFFF&desc=Welcome%20to%20my%20GitHub!&descAlignY=75&fontAlignY=40)
 </div>
+-->
 
 💬Language
 <p align="left">
