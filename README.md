@@ -33,17 +33,20 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
+<!--
 🕹️ETC
 <p align="left">
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-</p>
+</p> -->
 
 📫 Contact
 <p>
   <a href="mailto:ockda0423@skuniv.ac.kr"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="mailto:ockda0423@naver.com"><img src="https://img.shields.io/badge/Naver-000000?style=for-the-badge&logo=naver&logoColor=white"/></a>
-  <a href="https://impossible-glass-85d.notion.site/dahyunportfolio?source=copy_link"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/%EB%8B%A4%ED%98%84-%EC%9E%84-376651399/">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://impossible-glass-85d.notion.site/dahyunportfolio?source=copy_link">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
 </p>
 
 <!-- ## 🔍 Github Stats
