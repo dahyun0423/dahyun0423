@@ -1,54 +1,138 @@
-<p align="center">
-<img src="https://github.com/user-attachments/assets/0364eaa8-bc0e-4175-a741-afd853aabe70" width="100%" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=FFBDD1&height=200&section=header&text=Dahyun%27s%20GitHub&fontSize=60&fontColor=FF6996" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=FF8FB1&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Dahyun+%F0%9F%91%8B;Welcome+to+my+GitHub!" />
+</div>
+
+<br/>
+
+## 👋 Info
+
+- **이름** : 임다현 (Dahyun Lim)
+- **학력** : 서경대학교 소프트웨어학과 (2023.03 ~ 2027.08 졸업 예정)
+- **Location** : Seoul, South Korea
+
+## 🌐 Socials
+
+<div align="center">
+  <a href="mailto:ockda0423@skuniv.ac.kr"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/%EB%8B%A4%ED%98%84-%EC%9E%84-376651399/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NSAyMC40NWgtMy41NnYtNS41N2MwLTEuMzMtLjAyLTMuMDQtMS44NS0zLjA0LTEuODUgMC0yLjE0IDEuNDUtMi4xNCAyLjk0djUuNjdIOS4zNVY5aDMuNDF2MS41NmguMDVjLjQ4LS45IDEuNjQtMS44NSAzLjM3LTEuODUgMy42IDAgNC4yNyAyLjM3IDQuMjcgNS40NnY2LjI4ek01LjM0IDcuNDNhMi4wNiAyLjA2IDAgMSAxIDAtNC4xMyAyLjA2IDIuMDYgMCAwIDEgMCA0LjEzek03LjEyIDIwLjQ1SDMuNTZWOWgzLjU2djExLjQ1ek0yMi4yMiAwSDEuNzdDLjc5IDAgMCAuNzcgMCAxLjczdjIwLjU0QzAgMjMuMjMuNzkgMjQgMS43NyAyNGgyMC40NWMuOTggMCAxLjc4LS43NyAxLjc4LTEuNzNWMS43M0MyNCAuNzcgMjMuMiAwIDIyLjIyIDB6Ii8%2BPC9zdmc%2B"/></a>
+  <a href="https://velog.io/@dahyun0423/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a>
+  <a href="https://www.instagram.com/dahyun0423"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://limdahyun.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FFBDD1?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://impossible-glass-85d.notion.site/dahyunportfolio?source=copy_link"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
+</div>
+
+<br/>
+
+## 📚 I've Used...
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="170"><b>Language</b></td>
+    <td><img src="https://skillicons.dev/icons?i=java,js,c,cpp,python" /></td>
+  </tr>
+  <tr>
+    <td align="center" width="170"><b>Framework & Library</b></td>
+    <td><img src="https://skillicons.dev/icons?i=spring,react" /></td>
+  </tr>
+  <tr>
+    <td align="center" width="170"><b>Database</b></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql,supabase" /></td>
+  </tr>
+  <tr>
+    <td align="center" width="170"><b>Infra & DevOps</b></td>
+    <td><img src="https://skillicons.dev/icons?i=vercel,docker" /></td>
+  </tr>
+  <tr>
+    <td align="center" width="170"><b>IDE & Tool</b></td>
+    <td><img src="https://skillicons.dev/icons?i=idea,vscode,visualstudio,github" /></td>
+  </tr>
+  <tr>
+    <td align="center" width="170"><b>Design</b></td>
+    <td><img src="https://skillicons.dev/icons?i=figma,ps,ai" /></td>
+  </tr>
+  <tr>
+    <td align="center" width="170"><b>Collaboration</b></td>
+    <td><img src="https://skillicons.dev/icons?i=notion,discord" /></td>
+  </tr>
+  <tr>
+    <td align="center" width="170"><b>Etc</b></td>
+    <td><img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHRpdGxlPkNhbnZhPC90aXRsZT48cGF0aCBkPSJNMTIgMEM1LjM3MyAwIDAgNS4zNzMgMCAxMnM1LjM3MyAxMiAxMiAxMiAxMi01LjM3MyAxMi0xMlMxOC42MjcgMCAxMiAwek02Ljk2MiA3LjY4Yy43NTQgMCAxLjMzNy41NDkgMS40MDUgMS4yLjA2OS41ODMtLjE3MSAxLjA5Ny0uODIyIDEuNDA2LS4zNDMuMTcxLS40OC4xNzItLjU0OS4wNjktLjAzNC0uMDY5IDAtLjEzNy4wNjktLjIwNi42MTctLjUxNC42MTctLjkyNi41NDgtMS41MDgtLjAzNC0uMzc4LS4zMDgtLjYxOC0uNTgzLS42MTgtMS4yIDAtMi45MTQgMi42NzQtMi42NzQgNC42MjkuMTAzLjc1NC41NDkgMS42NDYgMS41MDkgMS42NDYuMzA4IDAgLjY1LS4xMDMuOTYtLjI0LjUtLjI2NC43OTktLjQ3IDEuMDk3LS44LS4wNzMtLjg4NS43MDQtMi4wNDYgMS44NTEtMi4wNDYuNTE1IDAgLjkyNi4yMDUuOTYuNTgzLjA2OC41MTQtLjM3Ny41ODItLjUxNC41ODJzLS4zNzgtLjAzNC0uMzc4LS4xN2MtLjAzNC0uMTM4LjMwOS0uMDcuMjc1LS4zNzgtLjAzNS0uMjA2LS4yNC0uMjc0LS40NDYtLjI3NC0uNzIgMC0xLjEzMS45OTQtMS4wMjkgMS42MTEuMDM1LjI3NS4xNzIuNTQ5LjQ0Ny41NDkuMjA1IDAgLjUxNC0uMzEuNjE3LS43NTUuMDY4LS4zMDguMzQzLS41MTQuNTgzLS41MTQuMTAyIDAgLjE3LjAzNC4yMDUuMTcxdi4xMzhjLS4wMzQuMTM3LS4xMzcuNTQ4LS4xMDIuNjUxIDAgLjA2OS4wMzQuMTcxLjE3LjE3MS4wOTIgMCAuNDM2LS4xOC43NzctLjQ1OS4xMTctLjU5LjI1My0xLjI5OC4yNTMtMS4zNTcuMDM0LS4yNC4xMzctLjQ4LjYxNy0uNDguMTAzIDAgLjE3MS4wMzQuMjA1LjE3MXYuMTM4bC0uMTM2LjYxN2MuNDQ1LS41ODMgMS4wOTctLjk5NCAxLjUwOC0uOTk0LjE3MiAwIC4zMDkuMTAyLjMwOS4yNzQgMCAuMTAzIDAgLjI3NC0uMDY5LjQ0Ni0uMTM3LjM3Ny0uMzA5Ljk2LS40MTIgMS40NzQgMCAuMTM3LjAzNS4yNzQuMjA3LjI3NC4xNzEgMCAuNjg1LS4yMDYgMS4wOTYtLjc1NGwuMDA3LS4wMDRjLS4wMDItLjA2OC0uMDA3LS4xMzQtLjAwNy0uMjAyIDAtLjQxMS4wMzUtLjc1NC4xMDQtLjk5NC4wNjgtLjI3NC40MTEtLjUxNC42MTctLjUxNC4xMDMgMCAuMjA1LjA2OS4yMDUuMTcxIDAgLjAzNSAwIC4xMDMtLjAzNC4xMzctLjEzNy40NDYtLjI0Ljg1Ny0uMjQgMS4yNjkgMCAuMjQuMDM0LjU4Mi4xMDIuNzg4IDAgLjAzNC4wMzUuMDY5LjA3LjA2OS4wNjggMCAuNTQ4LS40NDUuODktMS4wMjgtLjMwOC0uMjA2LS40OC0uNTQ5LS40OC0uOTYgMC0uNzIuNDQ2LTEuMDk3Ljg1OC0xLjA5Ny4zNDMgMCAuNjE3LjI0LjYxNy43MiAwIC4zMDgtLjEwMy42NS0uMjc0Ljk2aC4xMDJhLjc3Ljc3IDAgMCAwIC41ODQtLjI0LjI5My4yOTMgMCAwIDEgLjEzNC0uMTE3Yy4zMzUtLjQyNS44My0uNzQgMS40MS0uNzQuNDggMCAuOTI0LjIwNS45NTkuNTgyLjA2OC41MTUtLjM3OC42MTgtLjUxNS42MThsLS4wMDItLjAwMmMtLjEzOCAwLS4zNzctLjAzNS0uMzc3LS4xNzIgMC0uMTM3LjMwOS0uMDY4LjI3NC0uMzc2LS4wMzQtLjIwNi0uMjQtLjI3NS0uNDQ2LS4yNzUtLjY4NiAwLTEuMTMuODkxLTEuMDI4IDEuNjExLjAzNC4yNzUuMTcxLjU4My40NDUuNTgzLjIwNiAwIC41MTUtLjMwOC42NTItLjc1NC4wNjgtLjI3NC4zNDMtLjUxNC41ODMtLjUxNC4xMDMgMCAuMTcuMDM0LjIwNS4xNzEgMCAuMDY5IDAgLjIwNi0uMTM3LjY1Mi0uMTcuMzA4LS4xNzEuNDgtLjEzNy42MTcuMDM0LjI3NC4xNzEuNDguMzA5LjU4My4wMzQuMDM0LjA2OC4xMDIuMDY4LjEwMiAwIC4wNjktLjAzNC4xMzgtLjEzNy4xMzgtLjAzNCAwLS4wNjggMC0uMTAzLS4wMzUtLjUxNC0uMjA1LS43Mi0uNTQ4LS43ODktLjg5MS0uMjA1LjI0LS40NDUuMzc3LS43Mi4zNzctLjQ0NSAwLS44OS0uNDExLS45Ni0uOTI2YTEuNjA5IDEuNjA5IDAgMCAxIC4wNzUtLjY0OWMtLjIwMy4xMy0uNDIyLjIwMy0uNjIzLjIwM2gtLjE3Yy0uNDQ3LjY1Mi0uOTI3IDEuMDk4LTEuMjcgMS4zMDNhLjg5Ni44OTYgMCAwIDEtLjM3Ny4xMDRjLS4wNjggMC0uMTcxLS4wMzUtLjIwNS0uMTA0LS4wOTUtLjE1Mi0uMTU2LS4zOTItLjE5My0uNjY3LS40ODEuNTI3LTEuMTQ1LjgwNS0xLjQ1My44MDUtLjM0MyAwLS41NDgtLjIwNi0uNTgyLS41NXYtLjM3NmMuMTAyLS43NTQuMzc3LTEuMi4zNzctMS4zMzdhLjA3NC4wNzQgMCAwIDAtLjA2OS0uMDdjLS4yNCAwLTEuMDI4LjgyNC0xLjE2NiAxLjM3M2wtLjEwMy40NDVjLS4wNjguMzA5LS4zNzcuNTE1LS41ODIuNTE1LS4xMDMgMC0uMTcyLS4wMzUtLjIwNi0uMTcydi0uMTM3bC4wNDYtLjIzM2MtLjQzNS4zMS0uODcuNTA4LTEuMDc1LjUwOC0uMzA4IDAtLjQ4LS4xNzItLjUxNC0uNDEyLS4yMDYuMjc0LS40NDUuNDEyLS43NTQuNDEyLS4zNTIgMC0uNjk2LS4yNC0uODYyLS41OTMtLjI0NC4yNzUtLjUyMy41NTMtLjg1Mi43NjQtLjQ4LjMwOS0xLjAyOC41NDktMS42OC41NDktLjU4MiAwLTEuMDk3LS4zMDktMS4zNzEtLjU4My0uNDEyLS4zNzctLjY1MS0uOTYtLjY4Ni0xLjUwOS0uMjA1LTEuNjguODIzLTMuODQgMi40LTQuOC4zNzgtLjIwNS43NTUtLjM0MyAxLjEzMi0uMzQzem05Ljc3IDMuMjkxYy0uMTA0IDAtLjE3Mi4xNzItLjE3Mi4zNDMgMCAuMjc0LjEzNy41ODMuMzA5Ljc1NWExLjc0IDEuNzQgMCAwIDAgLjEwMi0uNTgzYzAtLjM0My0uMTM3LS41MTUtLjI0LS41MTV6Ii8%2BPC9zdmc%2B"/> <img src="https://img.shields.io/badge/미리캔버스-26C7D9?style=for-the-badge&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAGwklEQVR42u2aW4iVVRTHf%2Bc7Z0SzsrHESyWmll3NILMEMysSRIoi66GXLkQRFAQG9RIEPXSB6PoQ0ZXo%2BhaUZlIPktpFA00QrCwdtTTFME1nzjmrh7MWs9ru78z5vu%2FM0HFmw8f%2Bbnvvtf7rstdee5dEhOFcEoZ5GQFgBIARAIZ3qXQo3SUVXgkQoB4ItaT39i11qit12DRYjjDcqqAFqHWqBpSVaWNgEjAfmAfM0OfRQB%2BwF9gF%2FAhsBDboe89ztVM0wFTdGF8KPABcDYxtsY8eYBXwPrA6ALU2lACYbZYi32K2WnaM3wA8Ccx136v6f9inuDrRfqz8ADwPvGPaMNgAJE6C0qKqm%2BSr2vY14G7HdMlpRiulrlfJ9b8ReAj4erAAiDmrqcCFwEy1WXNKu4CtwCbgL%2Ff%2FmcBnwGzHeDmFOQnMJg0kE4T5vpfaDUBosxcDdwCLgYuAUU3aHgC%2BAl5Ru%2F0SOEsdWFfwbxogRP6LOfua0dpOALx3XQg8pozHJBCTmGfGmK4F7%2BtBALcdWAf8ogCOBaYo2JcA3QEYleMAEpF2XBWtx4nIW9JfaiLSJyJVvW9W7N%2Bae%2Fal6u4%2FFJEFIpI0oWmciCwWkfdc2%2BPoaCfz14rIbjdQXwqj1eCqpYARe%2F5NRBYG45eVBn%2BFwMxQII4Ds13M3%2BM6701hum8A6UsTwGoislJExrhxywPQVnLg2LslIvK79tsnIlJpg80%2FCLzoHFNXYLMS2PF2YA%2FQC4wBpgETm4xj7avAPy4%2BGMh5%2BdDXpmObVT4FLi%2FiAwzV2xyaoRS9xNeLyH0iMl0lE6rwzao5aZpgfb3u2uShu0vrRETW5jUBG%2Fw8ETmWYsdG8FZVu7CPRC8DcqlzgmnFTGtZIIS8whsjIhuK2P%2FGiHf2zL%2FppJ2kOCcDc0VEa2J%2BoiYi%2B0RkrLPzIiBMzttweQrB9vx4pE3MSSEip4rIgRamPq8FzxTUAhMKWRoYwd0isj%2Bi%2Bsb8U066SQumND%2BF2dgMUdP%2FDovIpIJagIiUkozxPcC9wHj18ImL8CrASuBRfV8fIHFhK7g5QZRn9c%2FA20Fonah3Pwl4JKArT5EsAFQdAJ55I%2Fhv%2FYZLVbVSzg8AEbeOv1PrUhAG14G7gHFu%2Bh3UpKihPF9Xc35ur%2Bv9c0psVyz1lDJPW3Yn9v5XrZ92THsAuoFbi2pBkmGVB3BjRF0rKv2XA01pFYAJKe%2F3aP2G3lcCk6rrSpMcOcLMANgAC4J29n41sM8lH7OU0QHIVg5rfUR9AU6zKkrDVbpkruc1g6RF6dd1qXlBir2uGISkigfyXWdq3ieNBq4rYgZJBvWfqXbnHaAN%2Bn0OVTQGeyMMA5ysdRewRa8k4l8WDfbOkAcgtP8EOKgJCTKqv429N%2BX7aUE2Z3UwvtE1L6PvyQ3A1EjWFc3pHcwBgPW7L%2BX9rIDhNcF3077pwNkpfqSte4PjU1S4p%2BBUtC3oz2g6V6V%2FTJ83RdJaNc0znpN3rzPJYKsTUlA%2BWNDJbQ5osXl%2BiguSAHY4bQmjxulDoQFpOzFHcg5ed5I94ra%2FTLIJcL1zhH1qbjFTmzLYcQBNUtp9BTQgUSe4OWDMwFwWtPkjBYBThgKANC%2Fb1YZZaFWgFRb1zQMudSAfTXGYQwLAoQEiuTwbDMbwx5FAx56fiKxJWhVOW6fBP9utfi6W2Ax8Gwl3a8BNwHJ9lxaJ7h8KDTiYAszkggsS6%2BcFt973Eq8Dz%2BqCaFagCdb2p7xamGUa3BMMavVEtwjKsyAxiX%2BgmlAJwl2bFiel0N%2FrgiQZTA3YnjLdneGIy5uY8NkmY6QeASG0%2BwT4XIOxch4tTDI4qh5Fu%2Bxst6ZOcEZBACyl9o1utFQck%2FUIrX36Ty%2FwcAEnnEkDdkcWLkbc7IIAGLNlTazc70AxoKvO23fp%2FS2aO6zk9UGt%2BoBEB9yWsiKbU0QKgSaUgVeBy4CP1PmWlUmT%2BirgChpbXOUi02AlA1B1GieuFkUitrlFU1MRc9gC3A6crmB009gb3KTrAvMdtSKDtQqAMbwuZUk6S5ekO8mWEW5mDnaoaj%2F%2FPd3lNbdWFO2sOcHvnAPyxI4Criy4LI6NaUdZyu5qZc%2Bh7QDYHL%2BTxoGmGPpLGJxi29x21dvZeZ6doTUpCYxr6D%2FeVqJDSpJREtA4veXV3zRhGv0Jyo45hV7JaJPQOMp2KFgEHQXWuvSVnIgA2HbYAWA9jaNwXwCf0Dh60tMkbP3flqznBG2Km6kByY6IOXUM83kAIJjny%2FTvHHUU43lMIAyN2xKIdCIAdKq0i06DJ2QZAWAEgBEARgAY1uVfB1JYnUl7GpoAAAAASUVORK5CYII%3D"/> <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAF40lEQVR42u2bW6hUVRjH%2F3vPnEuggUJEmFBkKkGRIQfLwKwIESssQ6IkezAvWFAPBVK9RBHSSxeLLj4UHHwILKSQDENJzRJKRMFUAkvDHgQNzePMOfPr5duyWu49s%2FbsObrtzILFmcs%2Be3%2F%2F%2F%2FrWd1vfRIDG8og1xkeXgC4BXQK6BIzpUQ0gqKwkNWwWGlFGHBB34uaXYFRMzpBgJnJw0YwAF%2FwdkmZIusYeVoZRk3RU0k5Jxx1wtCBqJPUbwJ2x%2FZ0N7KDc4zTwPjDeZI48LAIqzucRsBJ4yMVaTWHpbknfSuo3VkdKqPqRpKslrZR0q6QHJJ1P1tSxW4nsj0h6SdKApGf%2Fo%2BkOOxHQA%2Bwzhmsl14AGMGSvXzYcvbbqCa55wDbnf4aBZfZdFbjAVGzMDRijDUk9JTeAkcnYkLTENLbmaPHXkjZLmmPX1EzLozQ3mHw43YhoXCExQmRzkqReSTdLelXSIsdVYsDjkDjgIoacG5URuItj0GxBr7OILT1XNfCBcYk1QJL6JC1wDF8l1G2HEDAkab%2FdcLzD7qUGGpssZyRNlTTRZIkc4HET4KkerRUBSXBxRNJaSb%2FY%2B55LRERkgGr2fpKk5yRNSwl8mgFvGNboIm12XQLwjLmLeorbGQLWA9O9wCktAOnEdN3ZBOAV4EROVznsvP4beBO41nH7wQS4N%2FoHWAfc5AhYdcgoOqvOfccDzwN%2FZMgSAvxcirwXZh4NaKQwuhaY7BERFVjxyAlolgGHPVCNAODJNSPAZ8AtGc9IJWCZ3aTeIgJziTgJvGaq1Q4Rfrz%2BBLA3J%2FARm8n4AhjwnhGHaMBqRwOGA0JRl6g%2FgTW2XzMZ9%2ByHK9SDwC4P%2BEgAcFfOb4C5IcB9ApL9NwX4vMlqhxDxO%2FACMC6DiNgzcPcB3xUEvhNY0ITclgT48y7gqyYPDNkaR4AVwFUZln02sKmJGoc8Yy%2Bw2ANeyWN7%2FA8ij7l7Ta3yrI4v5AHgKUew24ENBbXsV7NXPRnktk1AlgrNT0kr86rpD2aV6zmBDwdsr7bjjajF2WDFi%2FgWSnpR0iwn%2FIxa5ApuRiYvXleL6C255qSkdyW9Z6%2Fz1gObPKk9V7UY%2BLkNV1UP9OXJOAO8BVzfoVgjeAuEhKdVYKnt8U6PGvCheaVRAd4uAWlE9AKPA4dsdRttgk4M3Uce8Moo5huF8vzIO6BgFPL8rPedGwXi9djC1n2jsAXqwCfA1LJsAT%2BkXAjsaSNRyWsEzwJvAzdcLiPoxwPzgO1txAMjTbK2EP9%2FCngduK7TRDQD7hq6OcDmnGGrHwhttZOcszlye5%2BIE1YYmdApI5kWCrvAByy1zJMT%2BNfsARY595wGfOwdvOQNhY92KiLM%2BuI2YNBZ5XbC1v3Ak45gfrUneUajQE5w2Io4%2Fe0S4afDk4EPgPMFVucQsBzoyxDK316zgC8LZoX7gSWOvYpCifALIqsc0J2uA7SyM3OBLQUTrh%2BBx%2FKkx1klsVoO9v8ywzSxTcPke5oFwPcFidhuHqtlgaRIUfQU8EYHXZNPWlrClZeILcA9eYqiIWXxs8A7KcFJJ8viiZA9wNPAwTaCLpesjWZrCmnAUEp4WqgYEbA1ktf9VrD9rY2DEZesQeBGt%2FLVioCGHSxsAGY4AvU4qz6as2LZZuScEK0BjuXMPN1S%2F2oXczUwK5siaf1lPByVc0Z42jnGx6syxRmZY0XSsF1zPu%2FpcL%2BkmSU%2FHncPR5uV2zI7REKaEsvYIJEcjw9J2iRpvqRxgXXH1MaHrMJGXLIZpRRRl1tP46dOQbVll1vs9QEcDKjylmkk9ui47e0jkpZKulPSRqe%2FILOtNnZWPpL0k6QD9nn9CgBfN1kHJZ2zxo2K4XhU0lxJW%2B2aXtMGsjQgNiu7ythMukCGSziT84g%2BSTuseyV2vku2yjZJ90t6WNJuI6fv%2F9Qqu85JvqKA8HqF3yob0iw90xqSytYsvUvSsaLN0t12%2BRZng2P2BxNjZnR%2FNNUloEtAl4AuAWN5%2FAvSYyHQWTFxYAAAAABJRU5ErkJggg%3D%3D"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHRpdGxlPlNsYWNrPC90aXRsZT48cGF0aCBkPSJNNS4wNDIgMTUuMTY1YTIuNTI4IDIuNTI4IDAgMCAxLTIuNTIgMi41MjNBMi41MjggMi41MjggMCAwIDEgMCAxNS4xNjVhMi41MjcgMi41MjcgMCAwIDEgMi41MjItMi41MmgyLjUydjIuNTJ6TTYuMzEzIDE1LjE2NWEyLjUyNyAyLjUyNyAwIDAgMSAyLjUyMS0yLjUyIDIuNTI3IDIuNTI3IDAgMCAxIDIuNTIxIDIuNTJ2Ni4zMTNBMi41MjggMi41MjggMCAwIDEgOC44MzQgMjRhMi41MjggMi41MjggMCAwIDEtMi41MjEtMi41MjJ2LTYuMzEzek04LjgzNCA1LjA0MmEyLjUyOCAyLjUyOCAwIDAgMS0yLjUyMS0yLjUyQTIuNTI4IDIuNTI4IDAgMCAxIDguODM0IDBhMi41MjggMi41MjggMCAwIDEgMi41MjEgMi41MjJ2Mi41Mkg4LjgzNHpNOC44MzQgNi4zMTNhMi41MjggMi41MjggMCAwIDEgMi41MjEgMi41MjEgMi41MjggMi41MjggMCAwIDEtMi41MjEgMi41MjFIMi41MjJBMi41MjggMi41MjggMCAwIDEgMCA4LjgzNGEyLjUyOCAyLjUyOCAwIDAgMSAyLjUyMi0yLjUyMWg2LjMxMnpNMTguOTU2IDguODM0YTIuNTI4IDIuNTI4IDAgMCAxIDIuNTIyLTIuNTIxQTIuNTI4IDIuNTI4IDAgMCAxIDI0IDguODM0YTIuNTI4IDIuNTI4IDAgMCAxLTIuNTIyIDIuNTIxaC0yLjUyMlY4LjgzNHpNMTcuNjg4IDguODM0YTIuNTI4IDIuNTI4IDAgMCAxLTIuNTIzIDIuNTIxIDIuNTI3IDIuNTI3IDAgMCAxLTIuNTItMi41MjFWMi41MjJBMi41MjcgMi41MjcgMCAwIDEgMTUuMTY1IDBhMi41MjggMi41MjggMCAwIDEgMi41MjMgMi41MjJ2Ni4zMTJ6TTE1LjE2NSAxOC45NTZhMi41MjggMi41MjggMCAwIDEgMi41MjMgMi41MjJBMi41MjggMi41MjggMCAwIDEgMTUuMTY1IDI0YTIuNTI3IDIuNTI3IDAgMCAxLTIuNTItMi41MjJ2LTIuNTIyaDIuNTJ6TTE1LjE2NSAxNy42ODhhMi41MjcgMi41MjcgMCAwIDEtMi41Mi0yLjUyMyAyLjUyNiAyLjUyNiAwIDAgMSAyLjUyLTIuNTJoNi4zMTNBMi41MjcgMi41MjcgMCAwIDEgMjQgMTUuMTY1YTIuNTI4IDIuNTI4IDAgMCAxLTIuNTIyIDIuNTIzaC02LjMxM3oiLz48L3N2Zz4%3D"/> <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHRpdGxlPk9wZW5BSTwvdGl0bGU%2BPHBhdGggZD0iTTIyLjI4MTkgOS44MjExYTUuOTg0NyA1Ljk4NDcgMCAwIDAtLjUxNTctNC45MTA4IDYuMDQ2MiA2LjA0NjIgMCAwIDAtNi41MDk4LTIuOUE2LjA2NTEgNi4wNjUxIDAgMCAwIDQuOTgwNyA0LjE4MThhNS45ODQ3IDUuOTg0NyAwIDAgMC0zLjk5NzcgMi45IDYuMDQ2MiA2LjA0NjIgMCAwIDAgLjc0MjcgNy4wOTY2IDUuOTggNS45OCAwIDAgMCAuNTExIDQuOTEwNyA2LjA1MSA2LjA1MSAwIDAgMCA2LjUxNDYgMi45MDAxQTUuOTg0NyA1Ljk4NDcgMCAwIDAgMTMuMjU5OSAyNGE2LjA1NTcgNi4wNTU3IDAgMCAwIDUuNzcxOC00LjIwNTggNS45ODk0IDUuOTg5NCAwIDAgMCAzLjk5NzctMi45MDAxIDYuMDU1NyA2LjA1NTcgMCAwIDAtLjc0NzUtNy4wNzI5em0tOS4wMjIgMTIuNjA4MWE0LjQ3NTUgNC40NzU1IDAgMCAxLTIuODc2NC0xLjA0MDhsLjE0MTktLjA4MDQgNC43NzgzLTIuNzU4MmEuNzk0OC43OTQ4IDAgMCAwIC4zOTI3LS42ODEzdi02LjczNjlsMi4wMiAxLjE2ODZhLjA3MS4wNzEgMCAwIDEgLjAzOC4wNTJ2NS41ODI2YTQuNTA0IDQuNTA0IDAgMCAxLTQuNDk0NSA0LjQ5NDR6bS05LjY2MDctNC4xMjU0YTQuNDcwOCA0LjQ3MDggMCAwIDEtLjUzNDYtMy4wMTM3bC4xNDIuMDg1MiA0Ljc4MyAyLjc1ODJhLjc3MTIuNzcxMiAwIDAgMCAuNzgwNiAwbDUuODQyOC0zLjM2ODV2Mi4zMzI0YS4wODA0LjA4MDQgMCAwIDEtLjAzMzIuMDYxNUw5Ljc0IDE5Ljk1MDJhNC40OTkyIDQuNDk5MiAwIDAgMS02LjE0MDgtMS42NDY0ek0yLjM0MDggNy44OTU2YTQuNDg1IDQuNDg1IDAgMCAxIDIuMzY1NS0xLjk3MjhWMTEuNmEuNzY2NC43NjY0IDAgMCAwIC4zODc5LjY3NjVsNS44MTQ0IDMuMzU0My0yLjAyMDEgMS4xNjg1YS4wNzU3LjA3NTcgMCAwIDEtLjA3MSAwbC00LjgzMDMtMi43ODY1QTQuNTA0IDQuNTA0IDAgMCAxIDIuMzQwOCA3Ljg3MnptMTYuNTk2MyAzLjg1NThMMTMuMTAzOCA4LjM2NCAxNS4xMTkyIDcuMmEuMDc1Ny4wNzU3IDAgMCAxIC4wNzEgMGw0LjgzMDMgMi43OTEzYTQuNDk0NCA0LjQ5NDQgMCAwIDEtLjY3NjUgOC4xMDQydi01LjY3NzJhLjc5Ljc5IDAgMCAwLS40MDctLjY2N3ptMi4wMTA3LTMuMDIzMWwtLjE0Mi0uMDg1Mi00Ljc3MzUtMi43ODE4YS43NzU5Ljc3NTkgMCAwIDAtLjc4NTQgMEw5LjQwOSA5LjIyOTdWNi44OTc0YS4wNjYyLjA2NjIgMCAwIDEgLjAyODQtLjA2MTVsNC44MzAzLTIuNzg2NmE0LjQ5OTIgNC40OTkyIDAgMCAxIDYuNjgwMiA0LjY2ek04LjMwNjUgMTIuODYzbC0yLjAyLTEuMTYzOGEuMDgwNC4wODA0IDAgMCAxLS4wMzgtLjA1NjdWNi4wNzQyYTQuNDk5MiA0LjQ5OTIgMCAwIDEgNy4zNzU3LTMuNDUzN2wtLjE0Mi4wODA1TDguNzA0IDUuNDU5YS43OTQ4Ljc5NDggMCAwIDAtLjM5MjcuNjgxM3ptMS4wOTc2LTIuMzY1NGwyLjYwMi0xLjQ5OTggMi42MDY5IDEuNDk5OHYyLjk5OTRsLTIuNTk3NCAxLjQ5OTctMi42MDY3LTEuNDk5N1oiLz48L3N2Zz4%3D"/> <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white"/> <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHRpdGxlPk1pY3Jvc29mdCBQb3dlclBvaW50PC90aXRsZT48cGF0aCBkPSJNMTMuNSAxLjVxMS40NTMgMCAyLjc5NS4zNzUgMS4zNDIuMzc1IDIuNTA4IDEuMDYgMS4xNjYuNjg2IDIuMTIgMS42NDEuOTU2Ljk1NSAxLjY0MSAyLjEyMS42ODYgMS4xNjYgMS4wNjEgMi41MDhRMjQgMTAuNTQ3IDI0IDEycTAgMS40NTMtLjM3NSAyLjc5NS0uMzc1IDEuMzQyLTEuMDYgMi41MDgtLjY4NiAxLjE2Ni0xLjY0MSAyLjEyLS45NTUuOTU2LTIuMTIxIDEuNjQxLTEuMTY2LjY4Ni0yLjUwOCAxLjA2MS0xLjM0Mi4zNzUtMi43OTUuMzc1LTEuMjkgMC0yLjUyLS4zMDUtMS4yMy0uMzA0LTIuMzM3LS44ODQtMS4xMDgtLjU4LTIuMDYzLTEuNDE4LS45NTUtLjgzOC0xLjY5My0xLjg5M0guOTk3cS0uNDExIDAtLjcwNC0uMjkzVDAgMTcuMDA0VjYuOTk2cTAtLjQxLjI5My0uNzAzVC45OTYgNmgzLjg5cS43MzktMS4wNTUgMS42OTQtMS44OTMuOTU1LS44MzcgMi4wNjMtMS40MTggMS4xMDctLjU4IDIuMzM3LS44ODRRMTIuMjEgMS41IDEzLjUgMS41em0uNzUgMS41MzV2OC4yMTVoOC4yMTVxLS4xNC0xLjY0LS44MjYtMy4wNzYtLjY4Ni0xLjQzNi0xLjc4Mi0yLjUzMS0xLjA5NS0xLjA5Ni0yLjUzNy0xLjc4Mi0xLjQ0MS0uNjg1LTMuMDctLjgyNnptLTUuMjYyIDcuNTdxMC0uNjgtLjIyOC0xLjE2Ni0uMjI5LS40ODYtLjYyNy0uNzktLjM5OS0uMzA1LS45MzgtLjQ0Ni0uNTM5LS4xNC0xLjE3Mi0uMTRIMi44NDh2Ny44NjNoMS44NHYtMi43NDJINS45M3EuNTc0IDAgMS4xMTktLjE3dC45NzgtLjQ5M3EuNDM0LS4zMjIuNjk4LS44MDIuMjYzLS40OC4yNjMtMS4xMTR6TTEzLjUgMjFxMS4xNzIgMCAyLjI2Mi0uMjg3dDIuMDU2LS44MnEuOTY3LS41MzQgMS43NzYtMS4yNzguODA4LS43NDQgMS40MTgtMS42NjQuNjEtLjkyLjk4NC0xLjk4Ni4zNzUtMS4wNjcuNDY5LTIuMjI3aC05LjcwM1YzLjAzNXEtMS43MzUuMTQtMy4yNy45MDhUNi43OTcgNmg0LjIwN3EuNDEgMCAuNzAzLjI5M3QuMjkzLjcwM3YxMC4wMDhxMCAuNDEtLjI5My43MDN0LS43MDMuMjkzSDYuNzk3cS42NDQuNzE1IDEuNDEyIDEuMjcxLjc2OC41NTcgMS42MjMuOTQ0Ljg1NS4zODcgMS43ODEuNTg2UTEyLjU0IDIxIDEzLjUgMjF6TTUuODEyIDkuNTk4cS41NzUgMCAuOTE1LjIyOC4zNC4yMjkuMzQuODM4IDAgLjI3LS4xMjQuNDQtLjEyMy4xNy0uMzEuMjc1LS4xODguMTA1LS40MjIuMTQ2LS4yMzQuMDQxLS40NDUuMDQxSDQuNjg3VjkuNTk4WiIvPjwvc3ZnPg%3D%3D"/> <img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHRpdGxlPk1pY3Jvc29mdCBXb3JkPC90aXRsZT48cGF0aCBkPSJNMjMuMDA0IDEuNXEuNDEgMCAuNzAzLjI5M3QuMjkzLjcwM3YxOS4wMDhxMCAuNDEtLjI5My43MDN0LS43MDMuMjkzSDYuOTk2cS0uNDEgMC0uNzAzLS4yOTNUNiAyMS41MDRWMThILjk5NnEtLjQxIDAtLjcwMy0uMjkzVDAgMTcuMDA0VjYuOTk2cTAtLjQxLjI5My0uNzAzVC45OTYgNkg2VjIuNDk2cTAtLjQxLjI5My0uNzAzdC43MDMtLjI5M3pNNi4wMzUgMTEuMjAzbDEuNDQyIDQuNzM1aDEuNjRsMS41Ny03Ljg3Nkg5LjAzNmwtLjkzNyA0LjY1My0xLjMyNS00LjVINS4zOGwtMS40MDYgNC41MjMtLjkzOC00LjY3NUgxLjMxMmwxLjU3IDcuODc0aDEuNjQxek0yMi41IDIxdi0zaC0xNXYzem0wLTQuNXYtMy43NUgxMnYzLjc1em0wLTUuMjVWNy41SDEydjMuNzV6bTAtNS4yNVYzaC0xNXYzWiIvPjwvc3ZnPg%3D%3D"/> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHRpdGxlPk1pY3Jvc29mdCBFeGNlbDwvdGl0bGU%2BPHBhdGggZD0iTTIzIDEuNXEuNDEgMCAuNy4zLjMuMjkuMy43djE5cTAgLjQxLS4zLjctLjI5LjMtLjcuM0g3cS0uNDEgMC0uNy0uMy0uMy0uMjktLjMtLjdWMThIMXEtLjQxIDAtLjctLjMtLjMtLjI5LS4zLS43VjdxMC0uNDEuMy0uN1EuNTggNiAxIDZoNVYyLjVxMC0uNDEuMy0uNy4yOS0uMy43LS4zek02IDEzLjI4bDEuNDIgMi42NmgyLjE0bC0yLjM4LTMuODcgMi4zNC0zLjhINy40NmwtMS4zIDIuNC0uMDUuMDgtLjA0LjA5LS42NC0xLjI4LS42Ni0xLjI5SDIuNTlsMi4yNyAzLjgyLTIuNDggMy44NWgyLjE2ek0xNC4yNSAyMXYtM0g3LjV2M3ptMC00LjV2LTMuNzVIMTJ2My43NXptMC01LjI1VjcuNUgxMnYzLjc1em0wLTUuMjVWM0g3LjV2M3ptOC4yNSAxNXYtM2gtNi43NXYzem0wLTQuNXYtMy43NWgtNi43NXYzLjc1em0wLTUuMjVWNy41aC02Ljc1djMuNzV6bTAtNS4yNVYzaC02Ljc1djNaIi8%2BPC9zdmc%2B"/></td>
+  </tr>
+</table>
+</div>
+
+<br/>
+
+## 💼 Work Experience
+
+- **(주)멋쟁이사자처럼 글로벌사업운영부(Global Division)** - 계약직 (2026.04, 2026.06 ~ 2026.10)
+  - K-Tech Pioneers(KTP) 운영 통합 플랫폼 **기획·개발** (실사용자 81명+)
+  - 선정팀 가이드북, 수요기업 공유페이지, 모집 공고 카드뉴스 기획·제작
+- **(주)WIT GLOBAL** - 키오스크 기획 및 디자인 외주 (2025.11 ~ 2026.02)
+  - 키오스크 UI/UX **총 106개 화면** 설계·디자인, 관리자 페이지 구조 기획
+- **(주)제로투원** - 마케팅 및 사무행정 계약직 (2022.12 ~ 2023.06)
+
+## 🏆 Awards
+
+- 2025.12.19 : LBS Tech 주최 「Tech for All: 기술로 잇는 사회혁신 공모전」 - **장려상**
+- 2025.11.18 : 한국은행 주최 「화폐사랑콘텐츠 공모전」 - **장려상** (팀 스쿨버스 대표)
+  - 🎬 [수상작 영상 - 현금사용선택권을 보장해주세요](https://www.youtube.com/shorts/z6MlNYlfnAw)
+  - 📰 [서경 TODAY 인터뷰](https://www.skuniv.ac.kr/sku-today/59039)
+- 2025 : 4호선 라인 대학 연합 해커톤 ‘4호선톤’ - **핫 인기 부스상**
+
+## 📄 Certificate
+
+- SQL 개발자 (SQLD) (2026.03.07, 한국데이터산업진흥원)
+
+## 🦁 Activities
+
+## 2026
+- 서경대학교 멋쟁이사자처럼 14기 - **부대표 / PO 파트 운영진**
+  - 2026 대동제 축제 페이지 **기획·운영 총괄** (테이블 QR 주문 시스템 도입, 사용자 약 4.9천 명 · 조회수 7.2만 회)
+- 멋사대학 중앙운영단 - **미디어팀 팀장** (2026.03 ~ 2026.12)
+- 멋사 0기 서포터즈 (2026.06 ~ 2026.07)
+
+## 2025
+- 서경대학교 멋쟁이사자처럼 13기 - **PM 파트 운영진**
+  - 교내 해커톤 기획·운영 주도
+  - 멋쟁이사자처럼 중앙 해커톤 (247개 팀) **상위 10%**, 본선 1차 피칭 진출
+  - 트렌디톤, 4호선톤 등 연합 해커톤 참여
+
+<br/>
+
+## 🐾 My GitAnimals Farm
+
+<div align="center">
+  <a href="https://github.com/devxb/gitanimals">
+    <img src="https://render.gitanimals.org/farms/dahyun0423" />
+  </a>
+</div>
+
+<br/>
+
+## 🔥 GitHub Stats
+
 <div align="center">
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=dahyun0423&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 </div>
-<br/>
-💬 Language
-<p align="left">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>
-</p>
-🌐 Framework
-<p align="left">
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-</p>
-⚒️ Tool
-<p align="left">
-<img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
-<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-</p>
-📫 Contact
-<p>
-<a href="mailto:ockda0423@skuniv.ac.kr"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/다현-임-376651399/">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://impossible-glass-85d.notion.site/dahyunportfolio?source=copy_link">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
-</p>
-<br/>
-🐾 My GitAnimals Farm
+
 <div align="center">
-<a href="https://github.com/devxb/gitanimals">
-<img src="https://render.gitanimals.org/farms/dahyun0423" />
-</a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dahyun0423&theme=tokyonight" height="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dahyun0423&theme=tokyonight" height="200" />
 </div>
-<br/>
-🔥 GitHub Stats
+
 <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dahyun0423&theme=tokyonight" height="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dahyun0423&theme=tokyonight&utcOffset=9" height="200" />
 </div>
+
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dahyun0423&theme=tokyonight" height="200" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dahyun0423&theme=tokyonight" height="200" />
-</div>
-<div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dahyun0423&theme=tokyonight" height="200" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dahyun0423&theme=tokyonight&utcOffset=9" height="200" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=FFBDD1&height=120&section=footer" />
 </div>
