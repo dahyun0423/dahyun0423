@@ -108,8 +108,8 @@
 ## 🐾 My GitAnimals Farm
 
 <div align="center">
-  <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=dahyun0423&utm_content=line">
-    <img src="https://render.gitanimals.org/lines/dahyun0423" width="1000" height="450" />
+  <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=dahyun0423&utm_content=farm">
+    <img src="https://render.gitanimals.org/farms/dahyun0423" width="1000" height="450" />
   </a>
   
 </div>
